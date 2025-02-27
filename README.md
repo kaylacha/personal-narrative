@@ -36,7 +36,10 @@ Record a short video of your story to display here on your README. You can do th
 ## Story Description
 
 Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+
 My project represents the different islands in Hawaii that I have visited. The context of my audio is my experience of seeing many cats during my trip. Although none were wild cats I thought that it was a memmorable part of my trip. In my project the images are shown as 2D arrays. The arrays store RGB values for the color images and grayscale which has black and white images. The grayscale shows a more dull contrast to the original photo. While my other photos show a more enhanced version of the photo with extra saturation and contrats. 
 ## Image Filter Analysis
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+
+One filter I used enhanced the colors in certain areas by using lower saturation in certain areas while blending the colors which show a glowing effect. The second filter I used had more of a gradient pixel. There were sharp edges using high contrast which showed black and white pixels. 
